@@ -1,6 +1,6 @@
 # ScreenSpaceConeReflection
 
-This is a rough implementation of the Screen Space Glossy Reflections from : http://roar11.com/2015/07/screen-space-glossy-reflections/
+This is a rough implementation of the Screen Space Glossy Reflections from : http://roar11.com/2015/07/screen-space-glossy-reflections/ for Unity 5
 
 # Requirements
 
